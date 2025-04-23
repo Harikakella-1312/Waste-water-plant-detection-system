@@ -22,3 +22,8 @@ The **Waste Water Treatment Plant (WWTP) Detection System** is an AI-powered sol
 ```bash
 git clone https://github.com/Harikakella-1312/Waste-water-plant-detection-system.git
 cd Waste-water-plant-detection-system
+
+
+### Run the Detection Script
+```bash
+python wwtp_detection_app.py
